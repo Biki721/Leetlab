@@ -158,7 +158,7 @@ Build a coding practice platform like leetCode where users can register, solve p
 
 ## 7. Timeline
 
-### Target: 10–20 days (solo)
+### Target: 10 days (solo)
 
 - Day 1: Finalize PRD; ERD; OpenAPI; repositories; auth skeleton; seed 10 problems.
 - Day 2: Problems CRUD; list/detail (SSR+SEO); tags/filters; initial styling.
@@ -175,3 +175,5 @@ Build a coding practice platform like leetCode where users can register, solve p
 - Alpha (end Day 3): Browse/detail/editor + sample runs.
 - Beta (end Day 6–8): Stable Python judge + history, 30 problems, monitoring and backups.
 - GA (optional): 1 additional language and discussions/editorials behind flags.
+
+LINK: Architetcture and Project Planning: https://www.tldraw.com/f/B9mBKe9S1K03058fEBus6?d=v-1934.-1753.8094.4461.MgdhDO6oPqvNESKaVnuYL
